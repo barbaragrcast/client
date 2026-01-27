@@ -10,7 +10,7 @@ function App() {
       </header>
 
       <img
-        src="https://via.placeholder.com/600x300"
+        src="https://www.eatthis.com/wp-content/uploads/sites/4/2023/06/Crumbl-cookies.jpg?quality=82&strip=1&w=640"
         alt="Crumbl Cookies"
         className="banner"
       />
