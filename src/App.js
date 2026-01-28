@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
@@ -10,7 +9,7 @@ function App() {
       </header>
 
       <img
-        src="https://www.eatthis.com/wp-content/uploads/sites/4/2023/06/Crumbl-cookies.jpg?quality=82&strip=1&w=640"
+        src="https://www.tastingtable.com/img/gallery/best-crumbl-cookies-ranked/l-intro-1649045321.jpg"
         alt="Crumbl Cookies"
         className="banner"
       />
